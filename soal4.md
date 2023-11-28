@@ -6,7 +6,7 @@ Aplikasi marketplace sederhana tersedia dalam dua bagian, yaitu backend (Golang)
 
 Repository untuk backend aplikasi marketplace dapat diakses di:
 
-[Marketplace Backend Repository](git@github.com:dzikrurrohmani/marketplace-be.git)
+[Marketplace Backend Repository](https://github.com/dzikrurrohmani/marketplace-be)
 
 Anda dapat menemukan kode sumber, dokumentasi, dan instruksi instalasi di dalam repository tersebut.
 
@@ -14,7 +14,7 @@ Anda dapat menemukan kode sumber, dokumentasi, dan instruksi instalasi di dalam 
 
 Repository untuk frontend aplikasi marketplace dengan menggunakan Next.js dapat diakses di:
 
-[Marketplace Frontend Repository](git@github.com:dzikrurrohmani/marketplace-fe.git)
+[Marketplace Frontend Repository](https://github.com/dzikrurrohmani/marketplace-fe)
 
 Dalam repository frontend, Anda akan menemukan komponen antarmuka pengguna, logika aplikasi pada sisi klien, dan petunjuk penggunaan.
 
